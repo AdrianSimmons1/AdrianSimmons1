@@ -1,7 +1,7 @@
 <h1>Hi, I'm Adrian! <br/><a href="https://github.com/AdrianSimmons1/AdrianSimmons1">It Professional</a>
 <h2>👨‍💻 IT/CyberSecurity Projects:</h2>
 
-- <b>[Editing file permissions in Linux](https://docs.google.com/document/d/1XWOELe1gRsHMDayrP6kHuT4VggsWhhAweGHhK0MEzpQ/edit?usp=sharing)</b>
+- <b>[Editing file permissions in Linux](https://github.com/AdrianSimmons1/LinuxFilePermissionsLab)</b>
 - <b>[Active Directory Home Lab] 
   
 <h2>📃Certifications </h2>
