@@ -1,5 +1,5 @@
 <h1>Hi, I'm Adrian! <br/><a href="https://github.com/AdrianSimmons1/AdrianSimmons1">It Professional</a>
-<h2>👨‍💻 IT/CyberSecurity Projects:</h2>
+<h2>👨‍💻 Home Labs and Projects:</h2>
 
 - <b>[Editing file permissions in Linux](https://github.com/AdrianSimmons1/LinuxFilePermissionsLab)</b>
 - <b>[Active Directory Home Lab] 
