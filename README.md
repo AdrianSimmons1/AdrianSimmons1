@@ -1,7 +1,7 @@
-<h1>Hi, I'm Adrian! 
+<h1>Hi, I'm Adrian! <br/><a href="https://github.com/AdrianSimmons1/AdrianSimmons1">It Professional</a>
 <h2>👨‍💻 IT/CyberSecurity Projects:</h2>
 
-- <b>Editing file permissions in Linux</b>
+- <b>[Editing file permissions in Linux](https://docs.google.com/document/d/1XWOELe1gRsHMDayrP6kHuT4VggsWhhAweGHhK0MEzpQ/edit?usp=sharing)</b>
   
 <h2>📺 Certifications </h2>
 
@@ -9,14 +9,11 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="AdrianSimmons | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AdrianSimmons | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: [https://www.instagram.com/joshmadakor/](https://www.instagram.com/adriansimmons_/)
+
+[instagram]: https://www.instagram.com/adriansimmons_/
 [linkedin]: https://www.linkedin.com/in/adriansimmons1/
 
 <!--
