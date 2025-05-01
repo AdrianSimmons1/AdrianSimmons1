@@ -2,8 +2,9 @@
 <h2>👨‍💻 IT/CyberSecurity Projects:</h2>
 
 - <b>[Editing file permissions in Linux](https://docs.google.com/document/d/1XWOELe1gRsHMDayrP6kHuT4VggsWhhAweGHhK0MEzpQ/edit?usp=sharing)</b>
+- <b>[Active Directory Home Lab] 
   
-<h2>📺 Certifications </h2>
+<h2>📃Certifications </h2>
 
 - [Google IT Support Professional ](https://coursera.org/share/80b2ae31d9fb423ded255c5de752df71)
 
