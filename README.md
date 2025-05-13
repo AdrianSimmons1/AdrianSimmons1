@@ -2,7 +2,7 @@
 <h2>👨‍💻 Home Labs and Projects:</h2>
 
 - <b>[Editing file permissions in Linux](https://github.com/AdrianSimmons1/LinuxFilePermissionsLab)</b>
-- <b>[Active Directory Home Lab] 
+- <b>[Active Directory Home Lab] (https://github.com/AdrianSimmons1/ActiveDirectoryLab)
   
 <h2>📃Certifications </h2>
 
